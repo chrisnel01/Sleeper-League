@@ -1,6 +1,7 @@
 import schedule
 import time
 import subprocess
+import json
 from datetime import datetime
 def run_updater():
     log_data = []
@@ -18,11 +19,16 @@ def run_updater():
         now = datetime.now()
         log_data.append({"timestamp": now.strftime("%Y-%m-%d %H:%M:%S")})
         print("Updated: ", log_data)
+        
+        with open("log.json", "a") as log_file:
+            json.dump(log_data, log_file)
+            log_file.write("\n")
+            
     except subprocess.CalledProcessError as e:
         print(f"Error: {e}")
 
 # Schedule the updater to run at 3:00 AM every day
-schedule.every().day.at("12:11").do(run_updater)
+schedule.every().day.at("12:14").do(run_updater)
 
 while True:
     schedule.run_pending()
