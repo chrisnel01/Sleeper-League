@@ -1,0 +1,1524 @@
+[
+    {
+        "owner_id": "991954993001340928",
+        "display_name": "1mcoleman",
+        "roster_id": 1,
+        "number of players": 21,
+        "players": [
+            {
+                "player_id": "10229",
+                "first_name": "Rashee",
+                "last_name": "Rice",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "10236",
+                "first_name": "Dalton",
+                "last_name": "Kincaid",
+                "amount": "3",
+                "contract": "1"
+            },
+            {
+                "player_id": "1689",
+                "first_name": "Adam",
+                "last_name": "Thielen",
+                "amount": "2",
+                "contract": "1"
+            },
+            {
+                "player_id": "3199",
+                "first_name": "Michael",
+                "last_name": "Thomas",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "4018",
+                "first_name": "Joe",
+                "last_name": "Mixon",
+                "amount": "40",
+                "contract": "2"
+            },
+            {
+                "player_id": "4033",
+                "first_name": "David",
+                "last_name": "Njoku",
+                "amount": "5",
+                "contract": "1"
+            },
+            {
+                "player_id": "4037",
+                "first_name": "Chris",
+                "last_name": "Godwin",
+                "amount": "9",
+                "contract": "2"
+            },
+            {
+                "player_id": "4066",
+                "first_name": "Evan",
+                "last_name": "Engram",
+                "amount": "4",
+                "contract": "1"
+            },
+            {
+                "player_id": "4068",
+                "first_name": "Mike",
+                "last_name": "Williams",
+                "amount": "4",
+                "contract": "1"
+            },
+            {
+                "player_id": "4950",
+                "first_name": "Christian",
+                "last_name": "Kirk",
+                "amount": "9",
+                "contract": "2"
+            },
+            {
+                "player_id": "4983",
+                "first_name": "DJ",
+                "last_name": "Moore",
+                "amount": "18",
+                "contract": "3"
+            },
+            {
+                "player_id": "5045",
+                "first_name": "Courtland",
+                "last_name": "Sutton",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "5850",
+                "first_name": "Josh",
+                "last_name": "Jacobs",
+                "amount": "43",
+                "contract": "3"
+            },
+            {
+                "player_id": "6904",
+                "first_name": "Jalen",
+                "last_name": "Hurts",
+                "amount": "43",
+                "contract": "3"
+            },
+            {
+                "player_id": "7527",
+                "first_name": "Mac",
+                "last_name": "Jones",
+                "off_waiver": true,
+                "contract": "1"
+            },
+            {
+                "player_id": "7608",
+                "first_name": "Khalil",
+                "last_name": "Herbert",
+                "amount": "3",
+                "contract": "1"
+            },
+            {
+                "player_id": "8129",
+                "first_name": "Dameon",
+                "last_name": "Pierce",
+                "amount": "15",
+                "contract": "1"
+            },
+            {
+                "player_id": "8205",
+                "first_name": "Isiah",
+                "last_name": "Pacheco",
+                "amount": "12",
+                "contract": "2"
+            },
+            {
+                "player_id": "9488",
+                "first_name": "Jaxon",
+                "last_name": "Smith-Njigba",
+                "amount": "8",
+                "contract": "3"
+            },
+            {
+                "player_id": "9493",
+                "first_name": "Puka",
+                "last_name": "Nacua",
+                "off_waiver": true,
+                "contract": "1"
+            },
+            {
+                "player_id": "9754",
+                "first_name": "Quentin",
+                "last_name": "Johnston",
+                "amount": "11",
+                "contract": "1"
+            }
+        ]
+    },
+    {
+        "owner_id": "466763580436377600",
+        "display_name": "ddunlap",
+        "roster_id": 2,
+        "number of players": 21,
+        "players": [
+            {
+                "player_id": "10235",
+                "first_name": "Roschon",
+                "last_name": "Johnson",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "10444",
+                "first_name": "Cedric",
+                "last_name": "Tillman",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "2133",
+                "first_name": "Davante",
+                "last_name": "Adams",
+                "amount": "43",
+                "contract": "2"
+            },
+            {
+                "player_id": "3163",
+                "first_name": "Jared",
+                "last_name": "Goff",
+                "amount": "1",
+                "contract": "2"
+            },
+            {
+                "player_id": "4149",
+                "first_name": "Jamaal",
+                "last_name": "Williams",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "5012",
+                "first_name": "Mark",
+                "last_name": "Andrews",
+                "amount": "27",
+                "contract": "2"
+            },
+            {
+                "player_id": "5284",
+                "first_name": "Jeff",
+                "last_name": "Wilson",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "5892",
+                "first_name": "David",
+                "last_name": "Montgomery",
+                "amount": "3",
+                "contract": "1"
+            },
+            {
+                "player_id": "6786",
+                "first_name": "CeeDee",
+                "last_name": "Lamb",
+                "amount": "62",
+                "contract": "2"
+            },
+            {
+                "player_id": "6920",
+                "first_name": "Isaiah",
+                "last_name": "Hodgins",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "7002",
+                "first_name": "Juwan",
+                "last_name": "Johnson",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "7066",
+                "first_name": "K.J.",
+                "last_name": "Osborn",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "7528",
+                "first_name": "Najee",
+                "last_name": "Harris",
+                "amount": "41",
+                "contract": "3"
+            },
+            {
+                "player_id": "7547",
+                "first_name": "Amon-Ra",
+                "last_name": "St. Brown",
+                "amount": "48",
+                "contract": "3"
+            },
+            {
+                "player_id": "7567",
+                "first_name": "Kenneth",
+                "last_name": "Gainwell",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "8132",
+                "first_name": "Tyler",
+                "last_name": "Allgeier",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "8162",
+                "first_name": "Sam",
+                "last_name": "Howell",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "8167",
+                "first_name": "Christian",
+                "last_name": "Watson",
+                "amount": "11",
+                "contract": "3"
+            },
+            {
+                "player_id": "8183",
+                "first_name": "Brock",
+                "last_name": "Purdy",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "9481",
+                "first_name": "Luke",
+                "last_name": "Musgrave",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "9753",
+                "first_name": "Zach",
+                "last_name": "Charbonnet",
+                "amount": "2",
+                "contract": "3"
+            }
+        ]
+    },
+    {
+        "owner_id": "608782139755937792",
+        "display_name": "CNELZGOAT",
+        "roster_id": 3,
+        "number of players": 19,
+        "players": [
+            {
+                "player_id": "10225",
+                "first_name": "Jonathan",
+                "last_name": "Mingo",
+                "amount": "2",
+                "contract": "1"
+            },
+            {
+                "player_id": "1992",
+                "first_name": "Allen",
+                "last_name": "Robinson",
+                "off_waiver": true,
+                "contract": "1"
+            },
+            {
+                "player_id": "2505",
+                "first_name": "Darren",
+                "last_name": "Waller",
+                "amount": "7",
+                "contract": "1"
+            },
+            {
+                "player_id": "5927",
+                "first_name": "Terry",
+                "last_name": "McLaurin",
+                "amount": "11",
+                "contract": "2"
+            },
+            {
+                "player_id": "5995",
+                "first_name": "Justice",
+                "last_name": "Hill",
+                "off_waiver": true,
+                "contract": "1"
+            },
+            {
+                "player_id": "6151",
+                "first_name": "Miles",
+                "last_name": "Sanders",
+                "amount": "11",
+                "contract": "2"
+            },
+            {
+                "player_id": "6768",
+                "first_name": "Tua",
+                "last_name": "Tagovailoa",
+                "amount": "5",
+                "contract": "2"
+            },
+            {
+                "player_id": "6790",
+                "first_name": "D'Andre",
+                "last_name": "Swift",
+                "amount": "14",
+                "contract": "2"
+            },
+            {
+                "player_id": "6869",
+                "first_name": "Adam",
+                "last_name": "Trautman",
+                "off_waiver": true,
+                "contract": "1"
+            },
+            {
+                "player_id": "6938",
+                "first_name": "Cam",
+                "last_name": "Akers",
+                "amount": "10",
+                "contract": "1"
+            },
+            {
+                "player_id": "7600",
+                "first_name": "Pat",
+                "last_name": "Freiermuth",
+                "amount": "4",
+                "contract": "1"
+            },
+            {
+                "player_id": "7611",
+                "first_name": "Rhamondre",
+                "last_name": "Stevenson",
+                "amount": "30",
+                "contract": "3"
+            },
+            {
+                "player_id": "8112",
+                "first_name": "Drake",
+                "last_name": "London",
+                "amount": "18",
+                "contract": "3"
+            },
+            {
+                "player_id": "8146",
+                "first_name": "Garrett",
+                "last_name": "Wilson",
+                "amount": "58",
+                "contract": "3"
+            },
+            {
+                "player_id": "8150",
+                "first_name": "Kyren",
+                "last_name": "Williams",
+                "off_waiver": true,
+                "contract": "1"
+            },
+            {
+                "player_id": "8172",
+                "first_name": "Greg",
+                "last_name": "Dulcich",
+                "amount": "4",
+                "contract": "1"
+            },
+            {
+                "player_id": "9229",
+                "first_name": "Anthony",
+                "last_name": "Richardson",
+                "amount": "4",
+                "contract": "2"
+            },
+            {
+                "player_id": "9500",
+                "first_name": "Josh",
+                "last_name": "Downs",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "9509",
+                "first_name": "Bijan",
+                "last_name": "Robinson",
+                "amount": "60",
+                "contract": "3"
+            }
+        ]
+    },
+    {
+        "owner_id": "872658787947966464",
+        "display_name": "bdwfrye",
+        "roster_id": 4,
+        "number of players": 21,
+        "players": [
+            {
+                "player_id": "1234",
+                "first_name": "Russell",
+                "last_name": "Wilson",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "2216",
+                "first_name": "Mike",
+                "last_name": "Evans",
+                "amount": "3",
+                "contract": "1"
+            },
+            {
+                "player_id": "4035",
+                "first_name": "Alvin",
+                "last_name": "Kamara",
+                "amount": "7",
+                "contract": "1"
+            },
+            {
+                "player_id": "4039",
+                "first_name": "Cooper",
+                "last_name": "Kupp",
+                "amount": "65",
+                "contract": "2"
+            },
+            {
+                "player_id": "4988",
+                "first_name": "Nick",
+                "last_name": "Chubb",
+                "amount": "42",
+                "contract": "2"
+            },
+            {
+                "player_id": "5185",
+                "first_name": "Allen",
+                "last_name": "Lazard",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "5987",
+                "first_name": "Alexander",
+                "last_name": "Mattison",
+                "amount": "6",
+                "contract": "1"
+            },
+            {
+                "player_id": "6797",
+                "first_name": "Justin",
+                "last_name": "Herbert",
+                "amount": "28",
+                "contract": "3"
+            },
+            {
+                "player_id": "6828",
+                "first_name": "AJ",
+                "last_name": "Dillon",
+                "amount": "3",
+                "contract": "1"
+            },
+            {
+                "player_id": "6853",
+                "first_name": "Van",
+                "last_name": "Jefferson",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "7526",
+                "first_name": "Jaylen",
+                "last_name": "Waddle",
+                "amount": "41",
+                "contract": "3"
+            },
+            {
+                "player_id": "7551",
+                "first_name": "Deon",
+                "last_name": "Jackson",
+                "off_waiver": true,
+                "contract": "1"
+            },
+            {
+                "player_id": "7553",
+                "first_name": "Kyle",
+                "last_name": "Pitts",
+                "amount": "28",
+                "contract": "2"
+            },
+            {
+                "player_id": "7569",
+                "first_name": "Nico",
+                "last_name": "Collins",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "7596",
+                "first_name": "Elijah",
+                "last_name": "Moore",
+                "amount": "2",
+                "contract": "1"
+            },
+            {
+                "player_id": "8136",
+                "first_name": "Rachaad",
+                "last_name": "White",
+                "amount": "5",
+                "contract": "1"
+            },
+            {
+                "player_id": "8138",
+                "first_name": "James",
+                "last_name": "Cook",
+                "amount": "3",
+                "contract": "3"
+            },
+            {
+                "player_id": "8143",
+                "first_name": "Jerome",
+                "last_name": "Ford",
+                "off_waiver": true,
+                "contract": "1"
+            },
+            {
+                "player_id": "9226",
+                "first_name": "De'Von",
+                "last_name": "Achane",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "9508",
+                "first_name": "Tyjae",
+                "last_name": "Spears",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "9756",
+                "first_name": "Jordan",
+                "last_name": "Addison",
+                "amount": "7",
+                "contract": "3"
+            }
+        ]
+    },
+    {
+        "owner_id": "992110875253248000",
+        "display_name": "calhorton8",
+        "roster_id": 5,
+        "number of players": 21,
+        "players": [
+            {
+                "player_id": "1535",
+                "first_name": "Cordarrelle",
+                "last_name": "Patterson",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "4046",
+                "first_name": "Patrick",
+                "last_name": "Mahomes",
+                "amount": "64",
+                "contract": "3"
+            },
+            {
+                "player_id": "4973",
+                "first_name": "Hayden",
+                "last_name": "Hurst",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "5859",
+                "first_name": "A.J.",
+                "last_name": "Brown",
+                "amount": "55",
+                "contract": "3"
+            },
+            {
+                "player_id": "5917",
+                "first_name": "Mecole",
+                "last_name": "Hardman",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "6803",
+                "first_name": "Brandon",
+                "last_name": "Aiyuk",
+                "amount": "23",
+                "contract": "1"
+            },
+            {
+                "player_id": "6820",
+                "first_name": "Clyde",
+                "last_name": "Edwards-Helaire",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "6886",
+                "first_name": "Chase",
+                "last_name": "Claypool",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "6943",
+                "first_name": "Gabe",
+                "last_name": "Davis",
+                "amount": "9",
+                "contract": "3"
+            },
+            {
+                "player_id": "6945",
+                "first_name": "Antonio",
+                "last_name": "Gibson",
+                "amount": "2",
+                "contract": "1"
+            },
+            {
+                "player_id": "7670",
+                "first_name": "Joshua",
+                "last_name": "Palmer",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "8137",
+                "first_name": "George",
+                "last_name": "Pickens",
+                "amount": "6",
+                "contract": "3"
+            },
+            {
+                "player_id": "8147",
+                "first_name": "John",
+                "last_name": "Metchie",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "8155",
+                "first_name": "Breece",
+                "last_name": "Hall",
+                "amount": "30",
+                "contract": "2"
+            },
+            {
+                "player_id": "8168",
+                "first_name": "Skyy",
+                "last_name": "Moore",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "9221",
+                "first_name": "Jahmyr",
+                "last_name": "Gibbs",
+                "amount": "40",
+                "contract": "2"
+            },
+            {
+                "player_id": "9479",
+                "first_name": "Darnell",
+                "last_name": "Washington",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "9482",
+                "first_name": "Michael",
+                "last_name": "Mayer",
+                "amount": "1",
+                "contract": "2"
+            },
+            {
+                "player_id": "9497",
+                "first_name": "Jalin",
+                "last_name": "Hyatt",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "9758",
+                "first_name": "C.J.",
+                "last_name": "Stroud",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "9997",
+                "first_name": "Zay",
+                "last_name": "Flowers",
+                "amount": "9",
+                "contract": "2"
+            }
+        ]
+    },
+    {
+        "owner_id": "992122944367165440",
+        "display_name": "c2good",
+        "roster_id": 6,
+        "number of players": 21,
+        "players": [
+            {
+                "player_id": "10218",
+                "first_name": "Xavier",
+                "last_name": "Hutchinson",
+                "off_waiver": true,
+                "contract": "1"
+            },
+            {
+                "player_id": "1067",
+                "first_name": "Marvin",
+                "last_name": "Jones",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "10871",
+                "first_name": "Luke",
+                "last_name": "Schoonmaker",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "1352",
+                "first_name": "Robert",
+                "last_name": "Woods",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "2161",
+                "first_name": "Jerick",
+                "last_name": "McKinnon",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "2374",
+                "first_name": "Tyler",
+                "last_name": "Lockett",
+                "amount": "22",
+                "contract": "2"
+            },
+            {
+                "player_id": "3164",
+                "first_name": "Ezekiel",
+                "last_name": "Elliott",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "3321",
+                "first_name": "Tyreek",
+                "last_name": "Hill",
+                "amount": "63",
+                "contract": "2"
+            },
+            {
+                "player_id": "4080",
+                "first_name": "Zay",
+                "last_name": "Jones",
+                "amount": "2",
+                "contract": "1"
+            },
+            {
+                "player_id": "4993",
+                "first_name": "Mike",
+                "last_name": "Gesicki",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "5022",
+                "first_name": "Dallas",
+                "last_name": "Goedert",
+                "amount": "10",
+                "contract": "3"
+            },
+            {
+                "player_id": "5248",
+                "first_name": "Gus",
+                "last_name": "Edwards",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "6770",
+                "first_name": "Joe",
+                "last_name": "Burrow",
+                "amount": "29",
+                "contract": "3"
+            },
+            {
+                "player_id": "6804",
+                "first_name": "Jordan",
+                "last_name": "Love",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "7090",
+                "first_name": "Darnell",
+                "last_name": "Mooney",
+                "amount": "1",
+                "contract": "2"
+            },
+            {
+                "player_id": "7543",
+                "first_name": "Travis",
+                "last_name": "Etienne",
+                "amount": "34",
+                "contract": "3"
+            },
+            {
+                "player_id": "7564",
+                "first_name": "Ja'Marr",
+                "last_name": "Chase",
+                "amount": "76",
+                "contract": "3"
+            },
+            {
+                "player_id": "7594",
+                "first_name": "Chuba",
+                "last_name": "Hubbard",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "7606",
+                "first_name": "Kadarius",
+                "last_name": "Toney",
+                "amount": "1",
+                "contract": "2"
+            },
+            {
+                "player_id": "7828",
+                "first_name": "Noah",
+                "last_name": "Gray",
+                "off_waiver": true,
+                "contract": "1"
+            },
+            {
+                "player_id": "9505",
+                "first_name": "Deuce",
+                "last_name": "Vaughn",
+                "amount": "1",
+                "contract": "1"
+            }
+        ]
+    },
+    {
+        "owner_id": "967570062817153024",
+        "display_name": "nathanshaug4",
+        "roster_id": 7,
+        "number of players": 21,
+        "players": [
+            {
+                "player_id": "1479",
+                "first_name": "Keenan",
+                "last_name": "Allen",
+                "amount": "11",
+                "contract": "1"
+            },
+            {
+                "player_id": "3271",
+                "first_name": "Tyler",
+                "last_name": "Higbee",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "3294",
+                "first_name": "Dak",
+                "last_name": "Prescott",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "4029",
+                "first_name": "Dalvin",
+                "last_name": "Cook",
+                "amount": "2",
+                "contract": "1"
+            },
+            {
+                "player_id": "4137",
+                "first_name": "James",
+                "last_name": "Conner",
+                "amount": "4",
+                "contract": "1"
+            },
+            {
+                "player_id": "4663",
+                "first_name": "Austin",
+                "last_name": "Ekeler",
+                "amount": "61",
+                "contract": "1"
+            },
+            {
+                "player_id": "4981",
+                "first_name": "Calvin",
+                "last_name": "Ridley",
+                "amount": "16",
+                "contract": "2"
+            },
+            {
+                "player_id": "5844",
+                "first_name": "T.J.",
+                "last_name": "Hockenson",
+                "amount": "18",
+                "contract": "3"
+            },
+            {
+                "player_id": "5848",
+                "first_name": "Marquise",
+                "last_name": "Brown",
+                "amount": "3",
+                "contract": "1"
+            },
+            {
+                "player_id": "5937",
+                "first_name": "Diontae",
+                "last_name": "Johnson",
+                "amount": "4",
+                "contract": "2"
+            },
+            {
+                "player_id": "6783",
+                "first_name": "Jerry",
+                "last_name": "Jeudy",
+                "amount": "6",
+                "contract": "3"
+            },
+            {
+                "player_id": "6813",
+                "first_name": "Jonathan",
+                "last_name": "Taylor",
+                "amount": "47",
+                "contract": "1"
+            },
+            {
+                "player_id": "6845",
+                "first_name": "Zack",
+                "last_name": "Moss",
+                "off_waiver": true,
+                "contract": "1"
+            },
+            {
+                "player_id": "7571",
+                "first_name": "Rashod",
+                "last_name": "Bateman",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "7588",
+                "first_name": "Javonte",
+                "last_name": "Williams",
+                "amount": "12",
+                "contract": "2"
+            },
+            {
+                "player_id": "7591",
+                "first_name": "Justin",
+                "last_name": "Fields",
+                "amount": "15",
+                "contract": "3"
+            },
+            {
+                "player_id": "7601",
+                "first_name": "Rondale",
+                "last_name": "Moore",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "8144",
+                "first_name": "Chris",
+                "last_name": "Olave",
+                "amount": "31",
+                "contract": "3"
+            },
+            {
+                "player_id": "8154",
+                "first_name": "Brian",
+                "last_name": "Robinson",
+                "amount": "3",
+                "contract": "2"
+            },
+            {
+                "player_id": "8228",
+                "first_name": "Jaylen",
+                "last_name": "Warren",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "9494",
+                "first_name": "Marvin",
+                "last_name": "Mims",
+                "amount": "1",
+                "contract": "1"
+            }
+        ]
+    },
+    {
+        "owner_id": "991909398618361856",
+        "display_name": "JadenWright003",
+        "roster_id": 8,
+        "number of players": 21,
+        "players": [
+            {
+                "player_id": "10859",
+                "first_name": "Sam",
+                "last_name": "LaPorta",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "1373",
+                "first_name": "Geno",
+                "last_name": "Smith",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "2197",
+                "first_name": "Brandin",
+                "last_name": "Cooks",
+                "amount": "2",
+                "contract": "1"
+            },
+            {
+                "player_id": "2749",
+                "first_name": "Raheem",
+                "last_name": "Mostert",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "4199",
+                "first_name": "Aaron",
+                "last_name": "Jones",
+                "amount": "14",
+                "contract": "1"
+            },
+            {
+                "player_id": "4866",
+                "first_name": "Saquon",
+                "last_name": "Barkley",
+                "amount": "49",
+                "contract": "2"
+            },
+            {
+                "player_id": "5880",
+                "first_name": "Parris",
+                "last_name": "Campbell",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "6794",
+                "first_name": "Justin",
+                "last_name": "Jefferson",
+                "amount": "92",
+                "contract": "3"
+            },
+            {
+                "player_id": "6801",
+                "first_name": "Tee",
+                "last_name": "Higgins",
+                "amount": "35",
+                "contract": "3"
+            },
+            {
+                "player_id": "6824",
+                "first_name": "Donovan",
+                "last_name": "Peoples-Jones",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "7045",
+                "first_name": "Joshua",
+                "last_name": "Kelley",
+                "off_waiver": true,
+                "contract": "1"
+            },
+            {
+                "player_id": "7523",
+                "first_name": "Trevor",
+                "last_name": "Lawrence",
+                "amount": "6",
+                "contract": "3"
+            },
+            {
+                "player_id": "7525",
+                "first_name": "DeVonta",
+                "last_name": "Smith",
+                "amount": "37",
+                "contract": "3"
+            },
+            {
+                "player_id": "7561",
+                "first_name": "Elijah",
+                "last_name": "Mitchell",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "8110",
+                "first_name": "Jake",
+                "last_name": "Ferguson",
+                "off_waiver": true,
+                "contract": "1"
+            },
+            {
+                "player_id": "8121",
+                "first_name": "Romeo",
+                "last_name": "Doubs",
+                "amount": "1",
+                "contract": "2"
+            },
+            {
+                "player_id": "8135",
+                "first_name": "Treylon",
+                "last_name": "Burks",
+                "amount": "1",
+                "contract": "2"
+            },
+            {
+                "player_id": "8148",
+                "first_name": "Jameson",
+                "last_name": "Williams",
+                "amount": "2",
+                "contract": "1"
+            },
+            {
+                "player_id": "8160",
+                "first_name": "Kenny",
+                "last_name": "Pickett",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "8210",
+                "first_name": "Chigoziem",
+                "last_name": "Okonkwo",
+                "amount": "1",
+                "contract": "2"
+            },
+            {
+                "player_id": "9225",
+                "first_name": "Tank",
+                "last_name": "Bigsby",
+                "amount": "1",
+                "contract": "1"
+            }
+        ]
+    },
+    {
+        "owner_id": "992462193385914368",
+        "display_name": "chrisnel01",
+        "roster_id": 9,
+        "number of players": 19,
+        "players": [
+            {
+                "player_id": "1466",
+                "first_name": "Travis",
+                "last_name": "Kelce",
+                "amount": "61",
+                "contract": "1"
+            },
+            {
+                "player_id": "1837",
+                "first_name": "Jimmy",
+                "last_name": "Garoppolo",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "2078",
+                "first_name": "Odell",
+                "last_name": "Beckham",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "2309",
+                "first_name": "Amari",
+                "last_name": "Cooper",
+                "amount": "16",
+                "contract": "1"
+            },
+            {
+                "player_id": "3198",
+                "first_name": "Derrick",
+                "last_name": "Henry",
+                "amount": "39",
+                "contract": "2"
+            },
+            {
+                "player_id": "4017",
+                "first_name": "Deshaun",
+                "last_name": "Watson",
+                "amount": "3",
+                "contract": "2"
+            },
+            {
+                "player_id": "4034",
+                "first_name": "Christian",
+                "last_name": "McCaffrey",
+                "amount": "62",
+                "contract": "3"
+            },
+            {
+                "player_id": "4082",
+                "first_name": "Curtis",
+                "last_name": "Samuel",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "4089",
+                "first_name": "Gerald",
+                "last_name": "Everett",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "4454",
+                "first_name": "Kendrick",
+                "last_name": "Bourne",
+                "off_waiver": true,
+                "contract": "1"
+            },
+            {
+                "player_id": "4881",
+                "first_name": "Lamar",
+                "last_name": "Jackson",
+                "amount": "25",
+                "contract": "3"
+            },
+            {
+                "player_id": "4951",
+                "first_name": "DJ",
+                "last_name": "Chark",
+                "amount": "1",
+                "contract": "2"
+            },
+            {
+                "player_id": "5038",
+                "first_name": "Michael",
+                "last_name": "Gallup",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "5872",
+                "first_name": "Deebo",
+                "last_name": "Samuel",
+                "amount": "24",
+                "contract": "2"
+            },
+            {
+                "player_id": "5890",
+                "first_name": "Damien",
+                "last_name": "Harris",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "6130",
+                "first_name": "Devin",
+                "last_name": "Singletary",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "6819",
+                "first_name": "Michael",
+                "last_name": "Pittman",
+                "amount": "7",
+                "contract": "3"
+            },
+            {
+                "player_id": "8126",
+                "first_name": "Wan'Dale",
+                "last_name": "Robinson",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "8130",
+                "first_name": "Trey",
+                "last_name": "McBride",
+                "amount": "1",
+                "contract": "3"
+            }
+        ]
+    },
+    {
+        "owner_id": "992480493587288064",
+        "display_name": "Mvisch",
+        "roster_id": 10,
+        "number of players": 21,
+        "players": [
+            {
+                "player_id": "1166",
+                "first_name": "Kirk",
+                "last_name": "Cousins",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "1426",
+                "first_name": "DeAndre",
+                "last_name": "Hopkins",
+                "amount": "6",
+                "contract": "2"
+            },
+            {
+                "player_id": "2449",
+                "first_name": "Stefon",
+                "last_name": "Diggs",
+                "amount": "60",
+                "contract": "3"
+            },
+            {
+                "player_id": "3225",
+                "first_name": "Tyler",
+                "last_name": "Boyd",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "4040",
+                "first_name": "JuJu",
+                "last_name": "Smith-Schuster",
+                "amount": "3",
+                "contract": "1"
+            },
+            {
+                "player_id": "4147",
+                "first_name": "Samaje",
+                "last_name": "Perine",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "421",
+                "first_name": "Matthew",
+                "last_name": "Stafford",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "4217",
+                "first_name": "George",
+                "last_name": "Kittle",
+                "amount": "17",
+                "contract": "2"
+            },
+            {
+                "player_id": "4984",
+                "first_name": "Josh",
+                "last_name": "Allen",
+                "amount": "55",
+                "contract": "3"
+            },
+            {
+                "player_id": "5846",
+                "first_name": "DK",
+                "last_name": "Metcalf",
+                "amount": "22",
+                "contract": "3"
+            },
+            {
+                "player_id": "5947",
+                "first_name": "Jakobi",
+                "last_name": "Meyers",
+                "amount": "2",
+                "contract": "1"
+            },
+            {
+                "player_id": "5967",
+                "first_name": "Tony",
+                "last_name": "Pollard",
+                "amount": "35",
+                "contract": "3"
+            },
+            {
+                "player_id": "6126",
+                "first_name": "Irv",
+                "last_name": "Smith",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "6806",
+                "first_name": "J.K.",
+                "last_name": "Dobbins",
+                "amount": "12",
+                "contract": "2"
+            },
+            {
+                "player_id": "6826",
+                "first_name": "Cole",
+                "last_name": "Kmet",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "8119",
+                "first_name": "Jahan",
+                "last_name": "Dotson",
+                "amount": "3",
+                "contract": "1"
+            },
+            {
+                "player_id": "8142",
+                "first_name": "Alec",
+                "last_name": "Pierce",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "8151",
+                "first_name": "Kenneth",
+                "last_name": "Walker",
+                "amount": "23",
+                "contract": "2"
+            },
+            {
+                "player_id": "8676",
+                "first_name": "Rashid",
+                "last_name": "Shaheed",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "9224",
+                "first_name": "Chase",
+                "last_name": "Brown",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "9227",
+                "first_name": "Israel",
+                "last_name": "Abanikanda",
+                "amount": "1",
+                "contract": "1"
+            }
+        ]
+    }
+]

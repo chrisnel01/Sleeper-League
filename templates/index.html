@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>THE BEAMER DYNASTY</title>
+    <style>
+        body {
+            text-align: left; /* Align text to the left for the entire page */
+            background-color: #181c28; /* Set the background color to navy blue */
+            color: white; /* Set the text color to white for better visibility */
+            font-family: 'Oswald', sans-serif;
+        }
+
+        .teams-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 7px; /* Adjust the gap between teams */
+            
+        }
+
+        .team-box {
+            border: 1px solid #ccc;
+            padding: 1px;
+            width: 9%;
+            border-radius: 10px; /* Rounded corners for team boxes */
+            text-overflow: ellipsis; /* Add ellipsis for text overflow */
+            white-space: nowrap; /* Prevent text from wrapping */
+            overflow: hidden; /* Hide overflowed text */
+            background-color: #293142;
+        }
+
+        .player {
+            border-radius: 10px; 
+            margin: 2px;
+            padding-left: 5px;
+            padding-top: -10px;
+        }
+
+        .player img {
+            width: 100px; /* Fixed width for all player images */
+            height: 100px; /* Fixed height for all player images */
+            margin: 0 auto; /* Add some spacing between the name and the image */
+            object-fit: cover;
+            padding: -10px;
+            display: block;
+            
+        }
+        #player-name{
+            margin-bottom: 0px;
+        }
+        #details{
+            text-align: left; /* Align "Amount" to the left */
+            margin-bottom: -7px;
+            margin-top: -15px;
+            padding: -15px;
+        }
+
+        .contract-2 {
+            background-color: #4a5f82; /* Background color for 2-year contracts */
+        }
+
+        .contract-3 {
+            background-color: #626e42; /* Background color for 3-year contracts */
+        }
+        #key {
+            display: flex;
+            align-items: center;
+            padding: -10px;
+        }
+        .color-box {
+            width: 20px; /* Adjust the width of the colored box */
+            height: 20px; /* Adjust the height of the colored box */
+            margin-right: 5px; /* Add spacing between the box and text */
+            margin-left: 10px;
+        }
+
+        .three-year {
+            background-color: #626e42; /* Color for 3-year contracts */
+            margin-right: 5px;
+
+        }
+
+        .two-year {
+            background-color: #4a5f82; /* Color for 2-year contracts */
+        }
+    </style>
+</head>
+<body>
+    <h1 style="align-text: center; margin-bottom: 0px; margin-left: 10px">THE BEAMER DYNASTY</h1>
+    <div id="key">
+        <div class="color-box three-year"></div>
+        <p>3 YEAR CONTRACTS</p>
+        <div class="color-box two-year"></div>
+        <p>2 YEAR CONTRACTS</p>
+    </div>
+    <div class="teams-container">
+        {% for team in data %}
+        <div class="team-box">
+            <h2 style="padding-left: 5px">{{ team['display_name'] }}</h2>
+            {% for player in team['players'] %}
+            <div class="player {% if player['contract'] == '2' %}contract-2{% elif player['contract'] == '3' %}contract-3{% endif %}">
+                <p id="player-name">{{ player['first_name'] }} {{ player['last_name'] }}</p>
+                <img src="https://sleepercdn.com/content/nfl/players/{{ player['player_id'] }}.jpg" alt="{{ player['first_name'] }} {{ player['last_name'] }} Image">
+                <div id="details">
+                    <p>${{ player['amount'] }}</p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endfor %}
+    </div>
+</body>
+</html>
