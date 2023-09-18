@@ -118,7 +118,7 @@
         <div class="team-box">
             <h2 style="padding-left: 5px">{{ team['display_name'] }}</h2>
             <p style="margin-top: 0px; font-size: 15px">Total: ${{ team['total_amount'] }}</p>
-            <p style="margin-top: -15px">Remaining: ${{ 250 - team['total_amount'] }}</p>
+            <p style="margin-top: -15px">Remaining: ${{ 260 - team['total_amount'] }}</p>
             <p></p>
             {% for player in team['players'] %}
             <div class="player {% if player['contract'] == '2' %}contract-2{% elif player['contract'] == '3' %}contract-3{% endif %}">
