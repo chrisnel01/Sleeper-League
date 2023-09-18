@@ -6,6 +6,18 @@ from datetime import datetime
 
 def run_updater():
     try:
+        with open("log.json", "r") as log_file:
+                log_data = json.load(log_file)
+
+        # Append the current date and time to the log
+        now = datetime.now()
+        log_data.append({"timestamp": now.strftime("%Y-%m-%d %H:%M:%S")})
+        print("Updated: ", log_data)
+
+        # Save the updated log data to log.json
+        with open("log.json", "w") as log_file:
+            json.dump(log_data, log_file, indent=4)
+            
         # Run your updater script
         subprocess.run(["python", "updater.py"], check=True)
         print("Updater.py has been executed successfully.")
@@ -16,16 +28,6 @@ def run_updater():
         subprocess.run(["git", "push"], check=True)
         print("Git changes have been committed and pushed to the repository.")
 
-        # Read existing log data from log.json, if any
-        try:
-            with open("log.json", "r") as log_file:
-                log_data = json.load(log_file)
-        except FileNotFoundError:
-            log_data = []
-
-        # Append the current date and time to the log
-        now = datetime.now()
-        log_data.append({"timestamp": now.strftime("%Y-%m-%d %H:%M:%S")})
         print("Updated: ", log_data)
 
         # Save the updated log data to log.json
@@ -36,7 +38,7 @@ def run_updater():
         print(f"Error: {e}")
 
 # Schedule the updater to run at 3:00 AM every day
-schedule.every().day.at("12:33").do(run_updater)
+schedule.every().day.at("12:38").do(run_updater)
 
 while True:
     schedule.run_pending()
