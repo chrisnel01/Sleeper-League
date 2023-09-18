@@ -7,31 +7,43 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>THE BEAMER DYNASTY</title>
+    <script>
+    document.documentElement.style.setProperty('--num-of-teams', '{{ data|length }}');
+    </script>
+
     <style>
         body {
-            text-align: left; /* Align text to the left for the entire page */
-            background-color: #181c28; /* Set the background color to navy blue */
-            color: white; /* Set the text color to white for better visibility */
-            font-family: 'Oswald', sans-serif;
+    text-align: left;
+    background-color: #181c28;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    margin: 0; /* Remove default margin */
+}
+
+        :root {
+            --team-width: 150px; /* Set the default team box width */
         }
 
         .teams-container {
             display: flex;
-            flex-wrap: wrap;
-            gap: 7px; /* Adjust the gap between teams */
-            
+            gap: 7px;
+            overflow-x: auto;
+            white-space: nowrap;
+            /* Set a minimum width for the container based on the total team boxes' width */
+            min-width: calc(var(--team-width) * var(--num-of-teams));
         }
 
         .team-box {
             border: 1px solid #ccc;
             padding: 1px;
-            width: 9%;
-            border-radius: 10px; /* Rounded corners for team boxes */
-            text-overflow: ellipsis; /* Add ellipsis for text overflow */
-            white-space: nowrap; /* Prevent text from wrapping */
-            overflow: hidden; /* Hide overflowed text */
+            width: var(--team-width); /* Use the CSS variable for team box width */
+            border-radius: 10px;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            overflow: hidden;
             background-color: #293142;
         }
+
 
         .player {
             border-radius: 10px; 
@@ -101,6 +113,9 @@
         {% for team in data %}
         <div class="team-box">
             <h2 style="padding-left: 5px">{{ team['display_name'] }}</h2>
+            <p style="margin-top: 0px; font-size: 15px">Total: ${{ team['total_amount'] }}</p>
+            <p style="margin-top: -15px">Remaining: ${{ 250 - team['total_amount'] }}</p>
+            <p></p>
             {% for player in team['players'] %}
             <div class="player {% if player['contract'] == '2' %}contract-2{% elif player['contract'] == '3' %}contract-3{% endif %}">
                 <p id="player-name">{{ player['first_name'] }} {{ player['last_name'] }}</p>
@@ -112,6 +127,7 @@
             {% endfor %}
         </div>
         {% endfor %}
+    
     </div>
 </body>
 </html>

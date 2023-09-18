@@ -4,6 +4,7 @@
         "display_name": "1mcoleman",
         "roster_id": 1,
         "number of players": 21,
+        "total_amount": 234,
         "players": [
             {
                 "player_id": "10229",
@@ -107,7 +108,7 @@
                 "player_id": "7527",
                 "first_name": "Mac",
                 "last_name": "Jones",
-                "off_waiver": true,
+                "amount": "1",
                 "contract": "1"
             },
             {
@@ -142,7 +143,7 @@
                 "player_id": "9493",
                 "first_name": "Puka",
                 "last_name": "Nacua",
-                "off_waiver": true,
+                "amount": "1",
                 "contract": "1"
             },
             {
@@ -159,6 +160,7 @@
         "display_name": "ddunlap",
         "roster_id": 2,
         "number of players": 21,
+        "total_amount": 250,
         "players": [
             {
                 "player_id": "10235",
@@ -314,6 +316,7 @@
         "display_name": "CNELZGOAT",
         "roster_id": 3,
         "number of players": 19,
+        "total_amount": 243,
         "players": [
             {
                 "player_id": "10225",
@@ -326,7 +329,7 @@
                 "player_id": "1992",
                 "first_name": "Allen",
                 "last_name": "Robinson",
-                "off_waiver": true,
+                "amount": "1",
                 "contract": "1"
             },
             {
@@ -347,7 +350,7 @@
                 "player_id": "5995",
                 "first_name": "Justice",
                 "last_name": "Hill",
-                "off_waiver": true,
+                "amount": "1",
                 "contract": "1"
             },
             {
@@ -375,7 +378,7 @@
                 "player_id": "6869",
                 "first_name": "Adam",
                 "last_name": "Trautman",
-                "off_waiver": true,
+                "amount": "1",
                 "contract": "1"
             },
             {
@@ -417,7 +420,7 @@
                 "player_id": "8150",
                 "first_name": "Kyren",
                 "last_name": "Williams",
-                "off_waiver": true,
+                "amount": "1",
                 "contract": "1"
             },
             {
@@ -455,6 +458,7 @@
         "display_name": "bdwfrye",
         "roster_id": 4,
         "number of players": 21,
+        "total_amount": 248,
         "players": [
             {
                 "player_id": "1234",
@@ -537,7 +541,7 @@
                 "player_id": "7551",
                 "first_name": "Deon",
                 "last_name": "Jackson",
-                "off_waiver": true,
+                "amount": "1",
                 "contract": "1"
             },
             {
@@ -579,7 +583,7 @@
                 "player_id": "8143",
                 "first_name": "Jerome",
                 "last_name": "Ford",
-                "off_waiver": true,
+                "amount": "1",
                 "contract": "1"
             },
             {
@@ -610,6 +614,7 @@
         "display_name": "calhorton8",
         "roster_id": 5,
         "number of players": 21,
+        "total_amount": 250,
         "players": [
             {
                 "player_id": "1535",
@@ -765,12 +770,13 @@
         "display_name": "c2good",
         "roster_id": 6,
         "number of players": 21,
+        "total_amount": 250,
         "players": [
             {
                 "player_id": "10218",
                 "first_name": "Xavier",
                 "last_name": "Hutchinson",
-                "off_waiver": true,
+                "amount": "1",
                 "contract": "1"
             },
             {
@@ -903,7 +909,7 @@
                 "player_id": "7828",
                 "first_name": "Noah",
                 "last_name": "Gray",
-                "off_waiver": true,
+                "amount": "1",
                 "contract": "1"
             },
             {
@@ -920,6 +926,7 @@
         "display_name": "nathanshaug4",
         "roster_id": 7,
         "number of players": 21,
+        "total_amount": 240,
         "players": [
             {
                 "player_id": "1479",
@@ -1009,7 +1016,7 @@
                 "player_id": "6845",
                 "first_name": "Zack",
                 "last_name": "Moss",
-                "off_waiver": true,
+                "amount": "1",
                 "contract": "1"
             },
             {
@@ -1075,6 +1082,7 @@
         "display_name": "JadenWright003",
         "roster_id": 8,
         "number of players": 21,
+        "total_amount": 250,
         "players": [
             {
                 "player_id": "10859",
@@ -1150,7 +1158,7 @@
                 "player_id": "7045",
                 "first_name": "Joshua",
                 "last_name": "Kelley",
-                "off_waiver": true,
+                "amount": "1",
                 "contract": "1"
             },
             {
@@ -1178,7 +1186,7 @@
                 "player_id": "8110",
                 "first_name": "Jake",
                 "last_name": "Ferguson",
-                "off_waiver": true,
+                "amount": "1",
                 "contract": "1"
             },
             {
@@ -1230,6 +1238,7 @@
         "display_name": "chrisnel01",
         "roster_id": 9,
         "number of players": 19,
+        "total_amount": 248,
         "players": [
             {
                 "player_id": "1466",
@@ -1298,7 +1307,7 @@
                 "player_id": "4454",
                 "first_name": "Kendrick",
                 "last_name": "Bourne",
-                "off_waiver": true,
+                "amount": "1",
                 "contract": "1"
             },
             {
@@ -1371,6 +1380,7 @@
         "display_name": "Mvisch",
         "roster_id": 10,
         "number of players": 21,
+        "total_amount": 248,
         "players": [
             {
                 "player_id": "1166",
