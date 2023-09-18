@@ -1,6 +1,6 @@
 from flask import Flask, render_template
 import json
-import time
+from datetime import datetime, timedelta
 
 app = Flask(__name__)
 
@@ -8,7 +8,9 @@ with open("rosters.json", "r") as json_file:
     data = json.load(json_file)
 
 # Record the time when the Flask application starts
-last_run_time = time.strftime("%Y-%m-%d %H:%M:%S")
+current_time = datetime.now()
+adjusted_time = current_time - timedelta(hours=4)  # Subtract 4 hours
+last_run_time = adjusted_time.strftime("%Y-%m-%d %H:%M:%S")
 
 @app.route('/')
 def index():
