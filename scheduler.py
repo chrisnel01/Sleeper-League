@@ -38,7 +38,7 @@ def run_updater():
         print(f"Error: {e}")
 
 # Schedule the updater to run at 3:00 AM every day
-schedule.every().day.at("12:38").do(run_updater)
+schedule.every().day.at("00:05").do(run_updater)
 
 while True:
     schedule.run_pending()
