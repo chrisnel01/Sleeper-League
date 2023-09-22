@@ -939,8 +939,8 @@
         "owner_id": "967570062817153024",
         "display_name": "nathanshaug4",
         "roster_id": 7,
-        "number of players": 21,
-        "total_amount": 240,
+        "number of players": 22,
+        "total_amount": 241,
         "players": [
             {
                 "player_id": "1479",
@@ -1003,6 +1003,13 @@
                 "first_name": "Marquise",
                 "last_name": "Brown",
                 "amount": "3",
+                "contract": "1"
+            },
+            {
+                "player_id": "5870",
+                "first_name": "Daniel",
+                "last_name": "Jones",
+                "amount": "1",
                 "contract": "1"
             },
             {
