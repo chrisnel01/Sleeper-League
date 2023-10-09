@@ -617,13 +617,6 @@
                 "contract": "1"
             },
             {
-                "player_id": "1535",
-                "first_name": "Cordarrelle",
-                "last_name": "Patterson",
-                "amount": "1",
-                "contract": "1"
-            },
-            {
                 "player_id": "4046",
                 "first_name": "Patrick",
                 "last_name": "Mahomes",
@@ -641,6 +634,13 @@
                 "player_id": "5917",
                 "first_name": "Mecole",
                 "last_name": "Hardman",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "5995",
+                "first_name": "Justice",
+                "last_name": "Hill",
                 "amount": "1",
                 "contract": "1"
             },
@@ -1081,8 +1081,8 @@
         "owner_id": "991909398618361856",
         "display_name": "JadenWright003",
         "roster_id": 8,
-        "number of players": 21,
-        "total_amount": 250,
+        "number of players": 22,
+        "total_amount": 251,
         "players": [
             {
                 "player_id": "10232",
@@ -1207,6 +1207,13 @@
                 "player_id": "8160",
                 "first_name": "Kenny",
                 "last_name": "Pickett",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "8195",
+                "first_name": "Ronnie",
+                "last_name": "Rivers",
                 "amount": "1",
                 "contract": "1"
             },
