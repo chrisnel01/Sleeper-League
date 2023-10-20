@@ -91,6 +91,13 @@
                 "contract": "1"
             },
             {
+                "player_id": "5849",
+                "first_name": "Kyler",
+                "last_name": "Murray",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
                 "player_id": "5850",
                 "first_name": "Josh",
                 "last_name": "Jacobs",
@@ -103,13 +110,6 @@
                 "last_name": "Hurts",
                 "amount": "43",
                 "contract": "3"
-            },
-            {
-                "player_id": "7527",
-                "first_name": "Mac",
-                "last_name": "Jones",
-                "amount": "1",
-                "contract": "1"
             },
             {
                 "player_id": "7608",
@@ -908,13 +908,6 @@
         "total_amount": 240,
         "players": [
             {
-                "player_id": "11199",
-                "first_name": "Emari",
-                "last_name": "Demercado",
-                "amount": "1",
-                "contract": "1"
-            },
-            {
                 "player_id": "1479",
                 "first_name": "Keenan",
                 "last_name": "Allen",
@@ -1032,6 +1025,13 @@
                 "last_name": "Robinson",
                 "amount": "3",
                 "contract": "2"
+            },
+            {
+                "player_id": "8183",
+                "first_name": "Brock",
+                "last_name": "Purdy",
+                "amount": "1",
+                "contract": "1"
             },
             {
                 "player_id": "8221",
