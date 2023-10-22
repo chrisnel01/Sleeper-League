@@ -166,7 +166,7 @@
         "owner_id": "466763580436377600",
         "display_name": "ddunlap",
         "roster_id": 2,
-        "number of players": 18,
+        "number of players": 19,
         "total_amount": 247,
         "players": [
             {
@@ -205,6 +205,13 @@
                 "contract": "2"
             },
             {
+                "player_id": "4988",
+                "first_name": "Nick",
+                "last_name": "Chubb",
+                "amount": "42",
+                "contract": "3"
+            },
+            {
                 "player_id": "5012",
                 "first_name": "Mark",
                 "last_name": "Andrews",
@@ -223,6 +230,13 @@
                 "first_name": "David",
                 "last_name": "Montgomery",
                 "amount": "3",
+                "contract": "1"
+            },
+            {
+                "player_id": "5987",
+                "first_name": "Alexander",
+                "last_name": "Mattison",
+                "amount": "6",
                 "contract": "1"
             },
             {
@@ -247,16 +261,9 @@
                 "contract": "3"
             },
             {
-                "player_id": "7547",
-                "first_name": "Amon-Ra",
-                "last_name": "St. Brown",
-                "amount": "48",
-                "contract": "3"
-            },
-            {
-                "player_id": "7567",
-                "first_name": "Kenneth",
-                "last_name": "Gainwell",
+                "player_id": "7569",
+                "first_name": "Nico",
+                "last_name": "Collins",
                 "amount": "1",
                 "contract": "1"
             },
@@ -436,7 +443,7 @@
         "owner_id": "872658787947966464",
         "display_name": "bdwfrye",
         "roster_id": 4,
-        "number of players": 21,
+        "number of players": 20,
         "total_amount": 248,
         "players": [
             {
@@ -475,24 +482,10 @@
                 "contract": "2"
             },
             {
-                "player_id": "4988",
-                "first_name": "Nick",
-                "last_name": "Chubb",
-                "amount": "42",
-                "contract": "3"
-            },
-            {
                 "player_id": "5185",
                 "first_name": "Allen",
                 "last_name": "Lazard",
                 "amount": "1",
-                "contract": "1"
-            },
-            {
-                "player_id": "5987",
-                "first_name": "Alexander",
-                "last_name": "Mattison",
-                "amount": "6",
                 "contract": "1"
             },
             {
@@ -524,6 +517,13 @@
                 "contract": "3"
             },
             {
+                "player_id": "7547",
+                "first_name": "Amon-Ra",
+                "last_name": "St. Brown",
+                "amount": "48",
+                "contract": "3"
+            },
+            {
                 "player_id": "7553",
                 "first_name": "Kyle",
                 "last_name": "Pitts",
@@ -531,9 +531,9 @@
                 "contract": "2"
             },
             {
-                "player_id": "7569",
-                "first_name": "Nico",
-                "last_name": "Collins",
+                "player_id": "7567",
+                "first_name": "Kenneth",
+                "last_name": "Gainwell",
                 "amount": "1",
                 "contract": "1"
             },
@@ -748,8 +748,8 @@
         "owner_id": "992122944367165440",
         "display_name": "c2good",
         "roster_id": 6,
-        "number of players": 21,
-        "total_amount": 250,
+        "number of players": 22,
+        "total_amount": 251,
         "players": [
             {
                 "player_id": "10218",
@@ -792,6 +792,13 @@
                 "last_name": "Lockett",
                 "amount": "22",
                 "contract": "2"
+            },
+            {
+                "player_id": "3164",
+                "first_name": "Ezekiel",
+                "last_name": "Elliott",
+                "amount": "1",
+                "contract": "1"
             },
             {
                 "player_id": "3321",
