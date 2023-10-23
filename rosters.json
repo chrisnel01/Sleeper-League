@@ -1134,6 +1134,13 @@
                 "contract": "2"
             },
             {
+                "player_id": "5916",
+                "first_name": "Darrell",
+                "last_name": "Henderson",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
                 "player_id": "6794",
                 "first_name": "Justin",
                 "last_name": "Jefferson",
@@ -1211,13 +1218,6 @@
                 "contract": "2"
             },
             {
-                "player_id": "9222",
-                "first_name": "Zach",
-                "last_name": "Evans",
-                "amount": "1",
-                "contract": "1"
-            },
-            {
                 "player_id": "9225",
                 "first_name": "Tank",
                 "last_name": "Bigsby",
@@ -1267,13 +1267,6 @@
                 "last_name": "Henry",
                 "amount": "39",
                 "contract": "2"
-            },
-            {
-                "player_id": "3969",
-                "first_name": "Leonard",
-                "last_name": "Fournette",
-                "amount": "1",
-                "contract": "1"
             },
             {
                 "player_id": "4017",
@@ -1328,6 +1321,13 @@
                 "player_id": "5038",
                 "first_name": "Michael",
                 "last_name": "Gallup",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "5046",
+                "first_name": "Royce",
+                "last_name": "Freeman",
                 "amount": "1",
                 "contract": "1"
             },
