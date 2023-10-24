@@ -308,8 +308,8 @@
         "owner_id": "608782139755937792",
         "display_name": "CNELZGOAT",
         "roster_id": 3,
-        "number of players": 18,
-        "total_amount": 226,
+        "number of players": 19,
+        "total_amount": 227,
         "players": [
             {
                 "player_id": "2505",
@@ -373,6 +373,13 @@
                 "last_name": "Swift",
                 "amount": "14",
                 "contract": "2"
+            },
+            {
+                "player_id": "7049",
+                "first_name": "Jauan",
+                "last_name": "Jennings",
+                "amount": "1",
+                "contract": "1"
             },
             {
                 "player_id": "7611",
