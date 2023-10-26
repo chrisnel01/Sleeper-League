@@ -308,8 +308,8 @@
         "owner_id": "608782139755937792",
         "display_name": "CNELZGOAT",
         "roster_id": 3,
-        "number of players": 16,
-        "total_amount": 224,
+        "number of players": 17,
+        "total_amount": 225,
         "players": [
             {
                 "player_id": "2505",
@@ -336,6 +336,13 @@
                 "player_id": "4171",
                 "first_name": "Josh",
                 "last_name": "Reynolds",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "4381",
+                "first_name": "Taysom",
+                "last_name": "Hill",
                 "amount": "1",
                 "contract": "1"
             },
@@ -759,6 +766,13 @@
                 "contract": "1"
             },
             {
+                "player_id": "11199",
+                "first_name": "Emari",
+                "last_name": "Demercado",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
                 "player_id": "1352",
                 "first_name": "Robert",
                 "last_name": "Woods",
@@ -869,13 +883,6 @@
                 "last_name": "Toney",
                 "amount": "1",
                 "contract": "2"
-            },
-            {
-                "player_id": "7828",
-                "first_name": "Noah",
-                "last_name": "Gray",
-                "amount": "1",
-                "contract": "1"
             },
             {
                 "player_id": "8150",
