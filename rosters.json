@@ -1071,13 +1071,6 @@
         "total_amount": 250,
         "players": [
             {
-                "player_id": "10232",
-                "first_name": "Michael",
-                "last_name": "Wilson",
-                "amount": "1",
-                "contract": "1"
-            },
-            {
                 "player_id": "10859",
                 "first_name": "Sam",
                 "last_name": "LaPorta",
@@ -1172,6 +1165,13 @@
                 "player_id": "7562",
                 "first_name": "Tutu",
                 "last_name": "Atwell",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
+                "player_id": "7601",
+                "first_name": "Rondale",
+                "last_name": "Moore",
                 "amount": "1",
                 "contract": "1"
             },
