@@ -166,8 +166,8 @@
         "owner_id": "466763580436377600",
         "display_name": "ddunlap",
         "roster_id": 2,
-        "number of players": 19,
-        "total_amount": 247,
+        "number of players": 20,
+        "total_amount": 228,
         "players": [
             {
                 "player_id": "10235",
@@ -198,6 +198,13 @@
                 "contract": "2"
             },
             {
+                "player_id": "2505",
+                "first_name": "Darren",
+                "last_name": "Waller",
+                "amount": "7",
+                "contract": "1"
+            },
+            {
                 "player_id": "3163",
                 "first_name": "Jared",
                 "last_name": "Goff",
@@ -205,18 +212,18 @@
                 "contract": "2"
             },
             {
+                "player_id": "4098",
+                "first_name": "Kareem",
+                "last_name": "Hunt",
+                "amount": "1",
+                "contract": "1"
+            },
+            {
                 "player_id": "4988",
                 "first_name": "Nick",
                 "last_name": "Chubb",
                 "amount": "42",
                 "contract": "3"
-            },
-            {
-                "player_id": "5012",
-                "first_name": "Mark",
-                "last_name": "Andrews",
-                "amount": "27",
-                "contract": "2"
             },
             {
                 "player_id": "5284",
@@ -308,23 +315,9 @@
         "owner_id": "608782139755937792",
         "display_name": "CNELZGOAT",
         "roster_id": 3,
-        "number of players": 17,
-        "total_amount": 225,
+        "number of players": 16,
+        "total_amount": 244,
         "players": [
-            {
-                "player_id": "2505",
-                "first_name": "Darren",
-                "last_name": "Waller",
-                "amount": "7",
-                "contract": "1"
-            },
-            {
-                "player_id": "4098",
-                "first_name": "Kareem",
-                "last_name": "Hunt",
-                "amount": "1",
-                "contract": "1"
-            },
             {
                 "player_id": "4111",
                 "first_name": "D'Onta",
@@ -345,6 +338,13 @@
                 "last_name": "Hill",
                 "amount": "1",
                 "contract": "1"
+            },
+            {
+                "player_id": "5012",
+                "first_name": "Mark",
+                "last_name": "Andrews",
+                "amount": "27",
+                "contract": "2"
             },
             {
                 "player_id": "5927",
@@ -1241,13 +1241,6 @@
                 "contract": "1"
             },
             {
-                "player_id": "1837",
-                "first_name": "Jimmy",
-                "last_name": "Garoppolo",
-                "amount": "1",
-                "contract": "1"
-            },
-            {
                 "player_id": "2309",
                 "first_name": "Amari",
                 "last_name": "Cooper",
@@ -1260,6 +1253,13 @@
                 "last_name": "Henry",
                 "amount": "39",
                 "contract": "2"
+            },
+            {
+                "player_id": "3969",
+                "first_name": "Leonard",
+                "last_name": "Fournette",
+                "amount": "1",
+                "contract": "1"
             },
             {
                 "player_id": "4017",
