@@ -1223,8 +1223,8 @@
         "owner_id": "992462193385914368",
         "display_name": "chrisnel01",
         "roster_id": 9,
-        "number of players": 19,
-        "total_amount": 252,
+        "number of players": 18,
+        "total_amount": 251,
         "players": [
             {
                 "player_id": "1466",
@@ -1286,13 +1286,6 @@
                 "player_id": "4082",
                 "first_name": "Curtis",
                 "last_name": "Samuel",
-                "amount": "1",
-                "contract": "1"
-            },
-            {
-                "player_id": "4454",
-                "first_name": "Kendrick",
-                "last_name": "Bourne",
                 "amount": "1",
                 "contract": "1"
             },
